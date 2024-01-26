@@ -1,6 +1,8 @@
 # Data-Analysis-Process
 The article comprehensively outlines the stages of the data analysis process, emphasizing its role in informed decision-making. It starts by defining the business question, stressing the importance of clarity and specificity. Data collection is highlighted as a crucial step, involving qualitative or quantitative data from sources like Kaggle.
 
+![pexels-josh-sorenson-1714208](https://github.com/TimKahuki/Data-Analysis-Process/assets/120485134/000ea5a6-00a8-4f74-8139-996092f2fcb3)
+
 ## What is Data Analysis?
 
 Data analysis is the art of collecting, inspecting, cleaning, transforming, and modeling raw data to draw conclusions and make insightful decisions. It involves various techniques and programming languages, such as Python and SQL. Modernization and access to raw data have challenged organizations and companies to utilize data analysis to make informed decisions, cut operation costs, predict sales, and increase revenue.   
